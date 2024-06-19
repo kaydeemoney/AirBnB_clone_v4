@@ -164,4 +164,4 @@ Second part of Airbnb: Joann Vuong
 Public Domain. No copy write protection. 
 
 ## Changes
-We intend to add tests and improve the storage of this among others, we will definitely come back to update this. thanks
+We intend to add tests and improve the storage of this among others, we will definitely come back to update this. thanks A LOT
